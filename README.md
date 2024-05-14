@@ -19,6 +19,7 @@ If you wish to contribute you can always email me or message me directly on gith
  once you've ran simple npm i in the terminal, you'll need to log into mysql and do SOURCE ./db/schemal.sql. once you've done that you could either quit out of mysql or open a secondary terminal. In that terminal do a npm start and open insomnia and go to localhost:3001
 
 ## Instructional Video Link
+https://drive.google.com/file/d/1tdNkTeuef_fyOnZpGUntE4TMgX68Pw7g/view?usp=drive_link
 
 ## Questions
  If you have any questions contact me at perrywayne39@gmail.com or you can reach me at www.github.com/TheQuestioningCake
